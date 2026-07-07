@@ -35,8 +35,8 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirxnofal404/)
-
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow amirxnofal on LinkedIn" title="Follow amirxnofal on LinkedIn"/>](https://linkedin.com/in/amirxnofal404)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow amirxnofal on Instagram" title="Follow amirxnofal on Instagram"/>](https://instagram.com/amirxnofal)
 ### 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
