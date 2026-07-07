@@ -1,5 +1,4 @@
-<!-- ![ProfileBanner](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif) -->
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Amir)" title="👋 Hi there! I'm (Amir(111|nd Li)|Amir Nofal)"/>]
+![ProfileBanner](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif) 
 
 
 ---
