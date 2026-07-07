@@ -2,8 +2,11 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Amir Nofal</h1>
-<h3 align="center">Backend Developer | Node.js & Express</h3>
+<!-- <h1 align="center">Hi 👋, I'm Amir Nofal</h1> -->
+<p align="center">
+<a  align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=30&duration=4000&pause=1000&color=F7F7F7&background=81000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Amir+Nofal;Backend+Developer;Building+APIs+with+Node.js" alt="Typing SVG" /></a>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amirxnofal404&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
