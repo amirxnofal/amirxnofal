@@ -1,18 +1,16 @@
+
 ![ProfileBanner](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
 
 ---
-
-<!-- <h1 align="center">Hi 👋, I'm Amir Nofal</h1> -->
 <p align="center">
-<a  align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=30&duration=4000&pause=1000&color=F7F7F7&background=81000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Amir+Nofal;Backend+Developer;Building+APIs+with+Node.js" alt="Typing SVG" /></a>
+  <a href="https://github.com/amirxnofal">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=762&text=Hi%2C%20I'm%20Amir%20Nofal%20%F0%9F%91%8B" alt="Hi, I&#39;m Amir Nofal 👋" />
+  </a>
 </p>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirxnofal404&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=865&height=44&lines=Backend%20Developer%20specialized%20in%20Node.js%20and%20Express;Building%20secure%20%26%20scalable%20APIs%2C%20one%20endpoint%20at%20a%20time" alt="Typing headlines" />
 </p>
-<details align="middle">
-<summary><samp>Click for more information</samp></summary>
 
 ## <br />
 
@@ -34,6 +32,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amirxnofal404&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+<details align="middle">
+
+
+<summary><samp>Click for more information</samp></summary>
+
 <div align="center">
 
 ### 💻 Tech Stack
@@ -42,7 +48,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  -->
 <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  -->
@@ -62,27 +68,39 @@
 
 ---
 
-
 [comment]: <> (Links to programming languages)
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=amirxnofal&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/><br />
+### 🔗 Connect With Me
 
-![](https://streak-stats.demolab.com/?user=amirxnofal&theme=transparent&hide_border=false)<br/><br />
+<p align="center">
+  <a href="https://linkedin.com/in/amirxnofal404" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/amirxnofal" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@amirxnofall" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://dev.to/amirxnofal" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href="mailto:amirxnofal.work@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=amirxnofal&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=amirxnofal&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=amirxnofal&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amirxnofal&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
 
-### 🌐 Connect with Me
+<p align="center"><i>⭐️ From <a href="https://github.com/amirxnofal">amirxnofal</a></i></p>
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow amirxnofal on LinkedIn" title="Follow amirxnofal on LinkedIn"/>](https://linkedin.com/in/amirxnofal404)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow amirxnofal on Instagram" title="Follow amirxnofal on Instagram"/>](https://instagram.com/amirxnofal)
-
----
-
-[![](https://komarev.com/ghpvc/?username=amirxnofal&icon=0&color=0e75b6)](https://visitcount.itsvg.in)
-
-
-</center>
