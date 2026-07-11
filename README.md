@@ -1,12 +1,7 @@
 
-![ProfileBanner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![ProfileBanner](https://github.com/amirxnofal/temp/blob/main/header%20(1).svg)
 
 ---
-<p align="center">
-  <a href="https://github.com/amirxnofal">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=762&text=Hi%2C%20I'm%20Amir%20Nofal%20%F0%9F%91%8B" alt="Hi, I&#39;m Amir Nofal 👋" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=865&height=44&lines=Backend%20Developer%20specialized%20in%20Node.js%20and%20Express;Building%20secure%20%26%20scalable%20APIs%2C%20one%20endpoint%20at%20a%20time" alt="Typing headlines" />
