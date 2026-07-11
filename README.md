@@ -28,7 +28,7 @@
 
 📧 I integrate email services with **Nodemailer**
 
-🤝 Open to collaborating on backend & full-stack projects
+🤝 Open to collaborating on backend projects
 
 📫 Reach me on LinkedIn below
 
