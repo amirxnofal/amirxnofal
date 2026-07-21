@@ -1,6 +1,6 @@
 <div align="center">
 
-![ProfileBanner](https://github.com/amirxnofal/temp/blob/main/header%20(1).svg)
+![ProfileBanner](https://github.com/amirxnofal/amirxnofal/blob/main/Banner-amirxnofal.svg)
 </div>
 
 ---
