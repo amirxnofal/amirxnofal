@@ -13,15 +13,21 @@
 
 ### 🚀 About Me
 
-⚙️ I'm a **Backend Developer** specialized in **Node.js** and **Express**
+Backend Developer 🚀
 
-🔐 Experienced with authentication & authorization (JWT, Google OAuth, bcrypt)
+⚙️ Specialized in Node.js & Express
 
-🗄️ I build and design REST APIs backed by **MongoDB (Mongoose)** and **Redis**
+🔐 Authentication & Authorization: JWT, Google OAuth, bcrypt, role-based access control
 
-✅ I validate data with **Joi** and handle file uploads with **Multer**
+🗄️ REST APIs backed by MongoDB (Mongoose) & Redis
 
-📧 I integrate email services with **Nodemailer**
+✅ Data validation with Joi, file uploads with Multer & Cloudinary
+
+📧 Email services with Nodemailer
+
+🛒 Building a full e-commerce backend (auth, catalog, cart, orders, reviews)
+
+🛡️ Security-minded: Helmet, rate limiting, token revocation
 
 🤝 Open to collaborating on backend projects
 
